@@ -1,4 +1,4 @@
-# Projeto final de IAs para o curso de Docker DIO
+# Projeto final de IAAs para o curso de Docker DIO
 
 ### Projeto com Vagrant para criação de maquinas virtuais locais de modo rápido apenas com um comando
 
